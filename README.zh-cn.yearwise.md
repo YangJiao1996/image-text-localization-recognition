@@ -10,23 +10,46 @@
 
 *[文字识别] 识别出文字区域中的文字内容*
 
-**最近更新时间：2018-03-28**
+**最近更新时间：2018-09-12**
 
 ## 1. Papers & Code
 
 #### 2018
 
-- [2018-arXiv][位置感知] TextBoxes++: A Single-Shot Oriented Scene Text Detector [`论文`](https://arxiv.org/abs/1801.02765) [`代码`](https://github.com/MhLiao/TextBoxes_plusplus)
+- [2018-ECCV][文字识别][位置感知] Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
+- [2018-ECCV][文字识别] Using Object Information for Spotting Text [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shitala_Prasad_Using_Object_Information_ECCV_2018_paper.pdf)
+- [2018-ECCV][位置感知] Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chuhui_Xue_Accurate_Scene_Text_ECCV_2018_paper.pdf)
+- [2018-ECCV][位置感知] Single Shot Scene Text Retrieval [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lluis_Gomez_Single_Shot_Scene_ECCV_2018_paper.pdf)
+- [2018-ECCV][位置感知] Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.pdf)
+- [2018-ECCV][位置感知] Synthetically Supervised Feature Learning for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf)
+- [2018-ICIP][位置感知] Focal Text: An Accurate Text Detection With Focal Loss
+- [2018-ICIP][位置感知] Feature Fusion Network for Scene Text Detection [`论文`](https://ieeexplore.ieee.org/document/8395194/)
+- [2018-ICIP][位置感知] Dense Chained Attention Network for Scene Text Recognition
+- [2018-IJCAI][位置感知] IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection [`论文`](https://arxiv.org/pdf/1805.01167.pdf)
+- [2018-CVPR][位置感知] Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
+- [2018-CVPR][文字识别] Edit Probability for Scene Text Recognition [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Edit_Probability_for_CVPR_2018_paper.pdf)
+- [2018-CVPR][位置感知] Geometry-Aware Scene Text Detection with Instance Transformation Network [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.pdf)
+- [2018-CVPR][位置感知] Learning Markov Clustering Networks for Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Learning_Markov_Clustering_CVPR_2018_paper.pdf)
+- [2018-CVPR][位置感知] Rotation-sensitive Regression for Oriented Scene Text Detection [`论文`](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.pdf)
+- [2018-AAAI][文字识别] SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional
+Encoder-decoder Network [`论文`](https://pdfs.semanticscholar.org/9061/47e6eb8e963d9751dda18fb540ed7faeb9fb.pdf)
+- [2018-AAAI][位置感知][文字识别] SEE: Towards Semi-Supervised End-to-End Scene Text Recognition [`论文`](https://arxiv.org/pdf/1712.05404.pdf) [`代码`](https://github.com/Bartzi/see)
+- [2018-AAAI][位置感知] PixelLink: Detecting Scene Text via Instance Segmentation [`论文`](https://arxiv.org/pdf/1801.01315.pdf)
+- [2018-AAAI][位置感知] Feature Enhancement Network: A Refined Scene Text Detector [`论文`](https://arxiv.org/pdf/1711.04249.pdf)
+- [2018-AAAI][文字识别] Char-Net: A Character-Aware Neural Network for Distorted Scene Text [`论文`](http://www.visionlab.cs.hku.hk/publications/wliu_aaai18.pdf)
+- [2018-TIP][位置感知] TextBoxes++: A Single-Shot Oriented Scene Text Detector [`论文`](https://arxiv.org/abs/1801.02765) [`代码`](https://github.com/MhLiao/TextBoxes_plusplus)
 
 #### 2017
 
+- [2017-arXiv][位置感知] Detecting Curve Text in the Wild: New Dataset and New Solution [`论文`](https://arxiv.org/pdf/1712.02170)
+- [2017-TPAMI][文字识别] Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten Chinese Text Recognition [`论文`](http://discovery.ucl.ac.uk/1569458/1/TPAMI-2016-08-0656-R2.pdf)
 - [2017-CVPR][位置感知] Deep Matching Prior Network: Toward Tighter Multi-oriented Text Detection [`论文`](https://arxiv.org/abs/1703.01425)
 - [2017-arXiv][位置感知] Arbitrary-Oriented Scene Text Detection via Rotation Proposals [`论文`](https://arxiv.org/abs/1703.01086)
 - [2017-AAAI][位置感知] TextBoxes: A Fast TextDetector with a Single Deep Neural Network [`论文`](https://arxiv.org/abs/1611.06779) [`代码`](https://github.com/MhLiao/TextBoxes)
 - [2017-CVPR][位置感知] Detecting Oriented Text in Natural Images by Linking Segments [`论文`](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/SegLink_CVPR17.pdf)
 - [2017-arXiv][位置感知] Improving Text Proposal for Scene Images with Fully Convolutional Networks [`论文`](https://arxiv.org/abs/1702.05089)
 - [2017-AAAI][位置感知][文字识别] Detection and Recognition of Text Embedding in Online Images via Neural Context Models [`论文`](https://github.com/cmkang/CTSN/blob/master/aaai2017_cameraready.pdf)
-- [2017-CVPR][位置感知] EAST: An Efficient and Accurate Scene Text Detector [`论文`](https://arxiv.org/abs/1704.03155)
+- [2017-CVPR][位置感知] EAST: An Efficient and Accurate Scene Text Detector [`论文`](https://arxiv.org/abs/1704.03155) [`code`](https://github.com/argman/EAST)
 - [2017-arXiv][位置感知] Deep Direct Regression for Multi-Oriented Scene Text Detection	 [`论文`](https://arxiv.org/abs/1703.08289)
 - [2017-arXiv][位置感知] Cascaded Segmentation-Detection Networks for Word-Level Text Spotting [`论文`](https://arxiv.org/abs/1704.00834)
 - [2017-ICCV][位置感知][文字识别] Deep TextSpotter: An End-to-End Trainable Scene Text Localization and
@@ -68,7 +91,7 @@ Recognition Framework [`论文`](http://openaccess.thecvf.com/content_ICCV_2017/
 - [2015-ICLR][文字识别] Deep structured output learning for unconstrained text recognition [`论文`](http://arxiv.org/abs/1412.5903)
 - [2015-PhD Thesis][位置感知] Deep Learning for Text Spotting
  [`论文`](http://www.robots.ox.ac.uk/~vgg/publications/2015/Jaderberg15b/jaderberg15b.pdf) [`代码`](https://bitbucket.org/jaderberg/eccv2014_textspotting)
-- [2015-CoRR][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`代码`](https://github.com/bgshih/crnn)
+- [2015-TPAMI][文字识别] An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition [`论文`](http://arxiv.org/pdf/1507.05717v1.pdf) [`代码`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`代码`](https://github.com/bgshih/crnn)
 - [2015-ICDAR][位置感知] Object Proposals for Text Extraction in the Wild [`论文`](http://arxiv.org/abs/1509.02317) [`代码`](https://github.com/lluisgomez/TextProposals)
 - [2015-TPAMI][位置感知][文字识别] Real-time Lexicon-free Scene Text Localization and Recognition [`论文`](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7313008)
 - [2015-ICCV][位置感知] FASText: Efficient unconstrained scene text detector [`论文`](https://pdfs.semanticscholar.org/2131/106318d4674bc9260e671c9f427bfc3f1029.pdf) [`代码`](https://github.com/MichalBusta/FASText)
